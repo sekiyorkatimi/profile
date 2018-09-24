@@ -1,0 +1,75 @@
+{
+	"name": [
+		"Adrian",
+		"Jamie",
+		"Alex",
+		"Taylor",
+		"Tracy",
+		"Blake"
+	],
+	"occupation": [
+		"doctor",
+		"technician",
+		"lawyer",
+		"programmer",
+		"painter",
+		"dentist"
+	],
+	"origin": [
+		"#name#, a #occupation#, was #always# #expecting# this #crazy# new #loan# payoff tip. #owner# #wouldn't# want you to #know of# how much #expense# #person# saved up. Just see for yourself: #url#"
+	],
+	"always": [
+		"never",
+		"rarely",
+		"constantly",
+		"frequently"
+	],
+	"expecting": [
+		"anticipating",
+		"doubting",
+		"expecting"
+	],
+	"crazy": [
+		"insane",
+		"brilliant",
+		"unbelievable"
+	],
+	"loan": [
+		"mortgage",
+		"car loan",
+		"credit card debt",
+		"school loan"
+	],
+	"owner": [
+		"Debtors",
+		"Loaners",
+		"Creditors"
+	],
+	"person": [
+		"he",
+		"she",
+		"they"
+	],
+	"know of": [
+		"see",
+		"find out",
+		"learn",
+		"know"
+	],
+	"wouldn't": [
+		"would never",
+		"will not",
+		"would not"
+	],
+	"expense": [
+		"funds",
+		"cash",
+		"income",
+		"money"
+	],
+	"url": [
+		"www.paymydebt.com",
+		"www.debtfreeyou.com",
+		"www.payoff.com"
+	]
+}
